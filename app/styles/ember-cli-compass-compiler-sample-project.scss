@@ -1,0 +1,10 @@
+@import "compass";
+
+html, body {
+  margin: 20px;
+}
+
+#image-container {
+  height: 250px;
+  background: image-url('/assets/images/flower.jpg') 0 0 no-repeat;
+}
